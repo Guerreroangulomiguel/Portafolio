@@ -1,1 +1,33 @@
-/* You can add global styles to this file, and also import other style files */
+
+body{
+    height: 100%;
+    background: #4e2880;
+    background: linear-gradient(183deg,rgba(78, 40, 128, 1) 0%, rgba(19, 26, 71, 1) 50%, rgba(8, 8, 23, 1) 100%);
+    margin: 0;
+}
+
+.lugrasimo-regular {
+    font-family: "Lugrasimo", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.roboto-condensed-200 {
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+.roboto-condensed-500 {
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 60px;
+}
+.roboto-condensed-500 {
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}

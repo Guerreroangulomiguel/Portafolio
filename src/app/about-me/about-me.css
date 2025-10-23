@@ -1,0 +1,27 @@
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.me {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #fff;
+}
+
+.descripcion {
+    color: #ffffff;
+}
+
+.about-me {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    padding: 2rem;
+    font-size: 24px;
+}
+
+

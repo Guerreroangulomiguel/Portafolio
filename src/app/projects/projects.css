@@ -1,0 +1,142 @@
+h2{
+    color: white;
+    text-align: center;
+}
+.descripcion{
+    color: #ffffff;
+}
+
+p {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    padding: 2rem;
+    font-size: 18px;
+}
+
+
+.experiencia {
+    color: #fff;
+    font-family: "Roboto Condensed", sans-serif;
+    margin: 2rem auto;
+    max-width: 900px;
+    line-height: 1.6;
+}
+
+.experiencia .descripcion p {
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+    text-align: justify;
+}
+
+.experiencia article {
+    background: rgba(255, 255, 255, 0.05);
+    border-left: 4px solid #ffc107;
+    padding: 1rem 1.5rem;
+    margin-bottom: 1.5rem;
+    border-radius: 10px;
+}
+
+.experiencia article h3 {
+    color: #ffc107;
+    margin-bottom: 0.5rem;
+}
+
+.experiencia article p {
+    margin: 0.3rem 0;
+}
+
+.c-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.c-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.icon {
+    width: 40px;
+    height: 40px;
+    margin: 0.6rem;
+    padding: 6px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    transition: all 0.3s ease;
+}
+.icon:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+}
+.icon-2{
+    width: 90px;
+    height: 90px;
+    margin: 0.6rem;
+    padding: 6px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    transition: all 0.3s ease;
+}
+.icon-2:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+}
+
+.php {
+    background: linear-gradient(180deg, #410da8 0%, #263280 62%, #2020f5 100%);
+}
+
+.js {
+    background: linear-gradient(180deg, #f7df1e 0%, #f0c800 100%);
+    border: 1px solid #d1b300;
+}
+
+.sql {
+    background: linear-gradient(180deg, #01bfd8 0%, #156d70 100%);
+    border: 1px solid #3200a8;
+}
+
+.html {
+    background: linear-gradient(180deg, #e34f26 0%, #d13910 100%);
+    border: 1px solid #b12f0a;
+}
+
+.css {
+    background: linear-gradient(180deg, #264de4 0%, #1b3bb3 100%);
+    border: 1px solid #142d8c;
+}
+
+.python {
+    background: linear-gradient(180deg, #264de4 0%, #656b0c 100%);
+    border: 1px solid #142d8c;
+}
+
+.flask {
+    background: linear-gradient(180deg, #1c99e0 0%, #2f38bb 100%);
+    border: 1px solid #142d8c;
+}
+
+.django {
+    background: linear-gradient(180deg, #1c99e0 0%, #2f38bb 100%);
+    border: 1px solid #142d8c;
+}
+
+.postgre {
+    background: linear-gradient(180deg, #1c99e0 0%, #2f38bb 100%);
+    border: 1px solid #142d8c;
+}
+.kali, .pentesting{
+    background: linear-gradient(180deg, #1c99e0 0%, #2f38bb 100%);
+    border: 1px solid #142d8c;
+}
+
+.Engage, .Cloud, .GoContact{
+    background: linear-gradient(90deg, #dadada 0%, #afafaf 100%);
+    border: 1px solid #142d8c;
+}
