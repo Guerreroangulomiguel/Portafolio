@@ -25,3 +25,8 @@ h1 {
 }
 
 
+@media (max-width: 400px) {
+    .about-me{
+        flex-direction: column-reverse;
+    }
+}

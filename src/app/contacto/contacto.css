@@ -23,6 +23,7 @@ p {
     justify-content: center;
     gap: .75rem;
     margin-top: .75rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .contact-link {
